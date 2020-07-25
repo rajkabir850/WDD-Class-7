@@ -1,0 +1,53 @@
+.Full_Page {
+    width: 900px;
+    margin: auto;
+}
+
+.all_part{
+    margin-top: 50px;
+
+}
+.left_part {
+    width: 300px;
+    background: yellow;
+    height: 300px;
+    text-align: center;
+    overflow: hidden;
+    float: left;
+}
+
+.left_part i {
+    margin-top: 30px;
+    font-size: 35px;
+}
+
+.middle_part {
+    width: 300px;
+    background: #c8c9cc;
+    height: 300px;
+    text-align: center;
+    overflow: hidden;
+    float: left;
+}
+.middle_part i {
+    margin-top: 30px;
+    font-size: 35px;
+}
+
+.right_part {
+    width: 300px;
+    background: #ff00bc;
+    height: 300px;
+    text-align: center;
+    overflow: hidden;
+    float: right;
+}
+.right_part i {
+    margin-top: 30px;
+    font-size: 35px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+}
